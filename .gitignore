@@ -1,0 +1,10 @@
+# Ignore build outputs
+build/
+*.bin
+*.img
+build/*.img
+build/*.bin
+Scripts/build/*.img
+Scripts/build/*.bin
+Scripts/build/*.img
+Scripts/build/*.bin
